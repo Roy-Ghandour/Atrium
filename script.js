@@ -28,10 +28,10 @@ function init() {
     //Checking if the atrium is open
     if (active) {
         //Changing the background colour to green
-        document.getElementById('background').style.backgroundColor = "#2ecc71";
+        document.getElementById('background').style.backgroundColor = "#47D582";
     } else {
         //Changing the background colour to red
-        document.getElementById('background').style.backgroundColor = "#e74c3c";
+        document.getElementById('background').style.backgroundColor = "#EA6455";
     }
 
     //Formatting the time to remain a constant 4 digits for consistency
